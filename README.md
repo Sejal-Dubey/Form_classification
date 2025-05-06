@@ -14,9 +14,7 @@ The project's workflow is designed to automatically classify squat form correctn
 
 2. Data Preparation: The dataset has been prepared using different forms of squats to prepare training dataset by applying pre-processing. 
 Description of dataset: 
-
 This image dataset consists of a total of 40 images of both good and bad forms of squat exercise. 
-
 Good Form: 20 images 
 Bad Form: 20 images 
 
@@ -30,11 +28,11 @@ Bad Form: 20 images
 
 7. Image Classification: For user-uploaded images, we: 
 
-Pre-process it. 
+   Pre-process it. 
 
-Extract features and convert them into an array for futher classification. 
+   Extract features and convert them into an array for futher classification. 
 
-Use the trained classifier to predict 'bad' or 'good' form. 
+   Use the trained classifier to predict 'bad' or 'good' form. 
 
 10. Result Display: The app displays 'Bad Form' or 'Good Form' based on the classifier's output. 
 
