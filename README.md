@@ -1,9 +1,10 @@
 # Exercise_Form_classification
 
-📌 Project Overview
+# Project Overview
+
 This project focuses on Exercise Form Classification using computer vision techniques and machine learning models. The goal is to accurately classify whether an individual's exercise form is correct or incorrect using image or video input. The task lies under the domain of Digital Image Processing and serves as a practical application of classification algorithms in the AI-ML domain.
 
-📌 Workflow of project 
+# Workflow of project 
 
 
 ![WhatsApp Image 2025-05-06 at 13 34 49_132821fe](https://github.com/user-attachments/assets/e141524c-af55-436a-a072-79d3b333c2d1)
@@ -36,7 +37,7 @@ Bad Form: 20 images
 
 10. Result Display: The app displays 'Bad Form' or 'Good Form' based on the classifier's output. 
 
-📌 Learning outcome
+# Learning outcome
 
 Understanding of Computer Vision: This project helped us gain a solid understanding of computer vision concepts and techniques, as well as familiarity with popular libraries like TensorFlow for implementing object detection. We learnt how to use the TensorFlow Object Detection API to train and deploy object detection models. 
 
